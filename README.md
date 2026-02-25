@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sparker2707/Sparker2707/main/images/otonomy-logo.svg" width="200" alt="Otonomy.AI">
+<img src="https://raw.githubusercontent.com/Sparker2707/Sparker2707/main/images/03.png" width="400" alt="Otonomy.AI">
 
 # 👋 Hello, I'm Sanjay Sparker
 
