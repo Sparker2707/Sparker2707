@@ -129,8 +129,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sparker2707&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sparker2707&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sparker2707&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF&count_private=true" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sparker2707&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF" />
 
 </div>
 
@@ -213,7 +213,7 @@ GPS-Denied Navigation
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sparker2707&theme=react-dark&hide_border=true&color=FF6B35&line=FF6B35&point=FFFFFF)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sparker2707&theme=github-compact&hide_border=true&color=FF6B35&line=FF6B35&point=FFFFFF&area=true&area_color=FF6B3520)](https://github.com/Sparker2707)
 
 </div>
 
