@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sparker2707/Sparker2707/main/images/03.png" width="400" alt="Otonomy.AI">
+<img src="https://raw.githubusercontent.com/SanjaySparker27/SanjaySparker27/main/images/03.png" width="400" alt="Otonomy.AI">
 
 # 👋 Hello, I'm Sanjay Sparker
 
@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-sparker-5679b51b3/)
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjaysparker27@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=Sparker2707&color=FF6B35&style=for-the-badge" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=SanjaySparker27&color=FF6B35&style=for-the-badge" alt="Profile Views">
 
 </div>
 
@@ -129,8 +129,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sparker2707&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF&count_private=true" />
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sparker2707&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SanjaySparker27&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF&count_private=true" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SanjaySparker27&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF" />
 
 </div>
 
@@ -213,7 +213,7 @@ GPS-Denied Navigation
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sparker2707&theme=github-compact&hide_border=true&color=FF6B35&line=FF6B35&point=FFFFFF&area=true&area_color=FF6B3520)](https://github.com/Sparker2707)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SanjaySparker27&theme=github-compact&hide_border=true&color=FF6B35&line=FF6B35&point=FFFFFF&area=true&area_color=FF6B3520)](https://github.com/SanjaySparker27)
 
 </div>
 
